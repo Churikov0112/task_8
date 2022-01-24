@@ -1,0 +1,48 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v6.0": []
+  },
+  "packageFolders": {
+    "/Users/ilyaletenkov/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ilyaletenkov/Desktop/Задание 8/Adapter/Adapter.csproj",
+      "projectName": "Adapter",
+      "projectPath": "/Users/ilyaletenkov/Desktop/Задание 8/Adapter/Adapter.csproj",
+      "packagesPath": "/Users/ilyaletenkov/.nuget/packages/",
+      "outputPath": "/Users/ilyaletenkov/Desktop/Задание 8/Adapter/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ilyaletenkov/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net60"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net60": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net60": {
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
